@@ -4,9 +4,6 @@ This is my repository for [STATS 220](https://courseoutline.auckland.ac.nz/dco/c
 
 This repository will contain codes from projects done throughout this course!
 
-> [!NOTE]
-> Course information is from 2024 S1 and is subject to change in the future.
-
 # Projects
 
 There are *five projects* in **STATS 220** based on *five modules* taught in the course. 
