@@ -19,6 +19,8 @@ There are *five projects* in **STATS 220** based on *five modules* taught in the
 3. Creating new variables and data structures
 4. Creating visual-based communications
 5. Creating data from digital sources
+6. Creating automated code-driven processes [NO PROJECT]
 
-# Random Cat Meme
+# Random Cat Memes
 ![Cat Data Science Meme](https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg)
+![Cat Numbers Meme](https://images.squarespace-cdn.com/content/v1/60a72bba9cfc63389f938917/a2533825-d309-4c2d-a8d8-c1ff0147dff9/show+me+the+numbers.jpg)
