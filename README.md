@@ -22,9 +22,9 @@ There are *five projects* in **STATS 220** based on *five modules* taught in the
 6. Creating automated code-driven processes [NO PROJECT]
 
 # Random Cat Memes
-<img align="left" width="45%" height = "45%" src="https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg" alt="Cat Data Science Meme">
+<img align="left" width="47%" height = "47%" src="https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg" alt="Cat Data Science Meme">
 
-<img align="right" width="45%" height = "45%" src="https://pbs.twimg.com/media/EpvSDU4XEAA6ilA.jpg" alt="Cat Excel Meme">
+<img align="right" width="47%" height = "47%" src="https://pbs.twimg.com/media/EpvSDU4XEAA6ilA.jpg" alt="Cat Excel Meme">
 
 $~$
 
