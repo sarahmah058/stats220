@@ -24,8 +24,6 @@ There are *five projects* in **STATS 220** based on *five modules* taught in the
 # Random Cat Memes
 <img align="left" width="47.5%" height = "47.5%" src="https://miro.medium.com/v2/resize:fit:500/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg" alt="Cat Data Science Meme">
 
-<img align="right" width="47.5%" height = "47.5%" src="https://pbs.twimg.com/media/EpvSDU4XEAA6ilA.jpg" alt="Cat Excel Meme">
-
-<br>
+<img align="right" width="47.5%" height = "47.5%" src="https://pbs.twimg.com/media/EpvSDU4XEAA6ilA.jpg" alt="Cat Excel Meme">  
 
 ![Cat Numbers Meme](https://images.squarespace-cdn.com/content/v1/60a72bba9cfc63389f938917/a2533825-d309-4c2d-a8d8-c1ff0147dff9/show+me+the+numbers.jpg)
